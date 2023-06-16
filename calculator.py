@@ -111,7 +111,7 @@ if __name__ == "__main__":
     year_one_modules = [
         ## Year, Code, Credits, Grade, Required
         Module(1, "4000CEM", 15, 83.33), # Programming and Algorithms
-        Module(1, "4003CEM", 15, 61.4), # Object Oriented Programming
+        Module(1, "4003CEM", 15, 61.40), # Object Oriented Programming
         Module(1, "4004CEM", 15, 60.91), # Computer Architecture and Networks
         Module(1, "4005CEM", 5, 61.05), # Database Systems
         Module(1, "4006CEM", 15, 70), # Computer Science Activity Led Learning Project 1
@@ -129,16 +129,16 @@ if __name__ == "__main__":
         Module(2, "5003CEM", 15, 64.66), # Advanced Algorithms
         Module(2, "5004CEM", 20, 57), # Operating Systems and Security
         Module(2, "5005CEM", 10, 53), # Data Science
-        Module(2, "5011CEM", 15, 47), # Big Data Programming Project
+        Module(2, "5011CEM", 15, 60.33), # Big Data Programming Project
         Module(2, "Add+2", 10, 72) # Add+Vantage
     ]
 
     year_three_modules = [
         ## Year, Code, Credits, Grade, Required
-        Module(3, "6000CEM", 10, 78.4, True), # Individual Project Preparation
-        Module(3, "6001CEM", 20, 80, True), # Individual Project
-        Module(3, "6002CEM", 20, 70), # Mobile App Development
-        Module(3, "6003CEM", 20, 70), # Web API Development
+        Module(3, "6000CEM", 10, 78.40, True), # Individual Project Preparation
+        Module(3, "6001CEM", 20, 76, True), # Individual Project
+        Module(3, "6002CEM", 20, 62.50), # Mobile App Development
+        Module(3, "6003CEM", 20, 54.80), # Web API Development
         Module(3, "6005CEM", 20, 61), # Security
         Module(3, "6006CEM", 20, 60), # Machine Learning and Related Applications
         Module(3, "Add+3", 10, 48) # Add+Vantage
